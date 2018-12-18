@@ -7,9 +7,9 @@ Datetime  เป็น stancate libraries  ของ python
 โดยเริ่มต้นวันแรก จะมารู้จักกับ  date , datetime, และ timedelta
 __
 ข้อแตกต่างระหว่าง datetime และ date คือ
-Date จะมีเฉพาะวันเดือนปี
-Datetime จะมีส่วนของเวลาเข้ามาเกี่ยวข้องด้วย
-TimeDelta จะเป็นตัวชี้วัดความต่างของ date หรือ datetime
+- Date จะมีเฉพาะวันเดือนปี
+- Datetime จะมีส่วนของเวลาเข้ามาเกี่ยวข้องด้วย
+- TimeDelta จะเป็นตัวชี้วัดความต่างของ date หรือ datetime
 __
 ```
     from datetime import datetime
